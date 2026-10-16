@@ -45,6 +45,7 @@ The system was tested in PLC Fiddle, and its simulated operation behaved as inte
 
 - [Ladder Logic Documentation](ladder-logic.md)
 - [Input/Output Mapping](io-mapping.md)
+- [System Sequence Diagram](system-sequence.md)
 
 ## Engineering Concepts Demonstrated
 
